@@ -1,1 +1,1 @@
-# GithHub1_Felipe
+# Checkpoint 2 - Felipe
