@@ -1,4 +1,4 @@
-# Aula7
+# Aula7 Felipe
 #Elabore um algoritmo que leia dois números e imprima qual é maior, qual é menor, ou se são iguais;
 print('Comparação entre números')
 n1 = float(input('Entre com o primeiro numero '))
